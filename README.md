@@ -31,13 +31,13 @@ Maka, konsumsi energi selama 2 jam adalah 0.24 KWh untuk tegangan 12V dengan aru
 
 # Menentukan Harga Per KWh nya
 
-Rumus Harga 
+## Rumus Harga 
 ```
 Biaya (IDR)=Energi (kWh)×Harga per kWh (IDR)
 ```
 Contoh:  
-Jika penggunaan selama 2 jam adalah 0.24KWh maka :
+### Jika penggunaan selama 2 jam adalah 0.24KWh maka :
 `Biaya (IDR)= 0.24×1300 = RP 312`
-Dan jika penggunaan selama 100 jam adalah 24KWh maka:
+### Dan jika penggunaan selama 100 jam adalah 24KWh maka:
 `Biaya (IDR)= 24×1300 = RP 31200`
 ``
