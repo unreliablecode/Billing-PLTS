@@ -28,3 +28,16 @@ Jika daya yang dihasilkan adalah 0.12 kW dan digunakan selama 2 jam:
 `E = 0.12 kW × 2 jam = 0.24 KWh`
 
 Maka, konsumsi energi selama 2 jam adalah 0.24 KWh untuk tegangan 12V dengan arus 10A.
+
+# Menentukan Harga Per KWh nya
+
+Rumus Harga 
+```
+Biaya (IDR)=Energi (kWh)×Harga per kWh (IDR)
+```
+Contoh:  
+Jika penggunaan selama 2 jam adalah 0.24KWh maka :
+`Biaya (IDR)= 0.24×1300 = RP 312`
+Dan jika penggunaan selama 100 jam adalah 24KWh maka:
+`Biaya (IDR)= 24×1300 = RP 31200`
+``
