@@ -40,4 +40,3 @@ Contoh:
 `Biaya (IDR)= 0.24×1300 = RP 312`
 ### Dan jika penggunaan selama 100 jam adalah 24KWh maka:
 `Biaya (IDR)= 24×1300 = RP 31200`
-``
